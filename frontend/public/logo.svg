@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Document/scroll body -->
+  <path d="M14 6 H42 L50 14 V56 A2 2 0 0 1 48 58 H14 A2 2 0 0 1 12 56 V8 A2 2 0 0 1 14 6 Z"
+        fill="#fafaf7" stroke="#14201b" stroke-width="2.2"/>
+  <path d="M42 6 V12 A2 2 0 0 0 44 14 H50 Z" fill="#e3e2da" stroke="#14201b" stroke-width="1.6"/>
+
+  <!-- Text lines -->
+  <line x1="19" y1="24" x2="43" y2="24" stroke="#6b756e" stroke-width="2" stroke-linecap="round"/>
+  <line x1="19" y1="30" x2="43" y2="30" stroke="#6b756e" stroke-width="2" stroke-linecap="round"/>
+  <line x1="19" y1="36" x2="35" y2="36" stroke="#6b756e" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Official seal -->
+  <circle cx="41" cy="47" r="10" fill="#1e6e52"/>
+  <circle cx="41" cy="47" r="10" fill="none" stroke="#14201b" stroke-width="1.4"/>
+  <path d="M36.5 47.5 L39.5 50.5 L45.5 43.5" fill="none" stroke="#fafaf7"
+        stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
